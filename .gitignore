@@ -1,0 +1,17 @@
+.local/
+runs/
+__pycache__/
+*.pyc
+*.o
+*.so
+*.a
+*.log
+lessons/*/main
+lessons/*/*.dat
+lessons/*/*.csv
+lessons/*/*.png
+lessons/*/data/*.csv
+lessons/*/data/*.edges
+lessons/*/data/*.csv.*
+.DS_Store
+docs/publishing.md
